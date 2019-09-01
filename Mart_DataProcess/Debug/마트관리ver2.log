@@ -1,0 +1,6 @@
+﻿  소스.cpp
+c:\users\yeo\desktop\programing\api\마트관리ver2\마트관리ver2\소스.cpp(186): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note: 'itoa' 선언을 참조하십시오.
+c:\users\yeo\desktop\programing\api\마트관리ver2\마트관리ver2\소스.cpp(193): warning C4101: 'New_Quantity' :참조되지 않은 지역 변수입니다.
+c:\users\yeo\desktop\programing\api\마트관리ver2\마트관리ver2\소스.cpp(187): warning C4172: 지역 변수 또는 임시: SUM의 주소를 반환하고 있습니다.
+  마트관리ver2.vcxproj -> C:\Users\YEO\Desktop\Programing\API\마트관리ver2\Debug\마트관리ver2.exe
